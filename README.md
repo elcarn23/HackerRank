@@ -48,5 +48,6 @@ Main repository for all Hacker Rank solutions
 41. C++ Class Template Specialization    </br>
 42. C++ Variadics    </br>
 43. Bit Array    </br>
+44. [Basic Data Types](https://github.com/elcarn23/HackerRank/tree/master/BasicDataTypes) </br>
   </p>
 </details>
