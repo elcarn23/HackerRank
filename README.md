@@ -5,48 +5,48 @@ Main repository for all Hacker Rank solutions
 # C++ Stuff
 <details><summary> View Challenges </summary>  
   <p>
-1. Hello World  
-2. Input and Output  
-3. Conditional Statements  
-4. For Loop  
-5. Functions  
-6. Pointer  
-7. Arrays Introduction  
-8. Variable Sized Arrays  
-9. Attribute Parser  
-10. StringStream  
-11. Strings  
-12. Structs  
-13. Class  
-14. Classes and Objects  
-15. Box It  
-16. Inherited Code  
-17. Exceptional Server  
-18. Virtual Functions  
-19. Abstract classes - Polymorphism  
-20. Vector Sort  
-21. Vector Erase  
-22. Lower Bound STL  
-23. Sets STL  
-24. Maps STL  
-25. Print Pretty  
-26. Deque STL  
-27. Inheritance Introduction  
-28. Hotel Prices  
-29. Rectangle Area  
-30. Multi Level Inheritance  
-31. Overloading Ostream Operator  
-32. Messages Order  
-33. CPP Exception handling  
-34. Accessing Inherited Functions  
-35. Magic Spells  
-36. C++ Class Templates  
-37. Preporcessor Solution  
-38. Operator overloading  
-39. Overload Operators  
-40. Attending Workshops  
-41. C++ Class Template Specialization  
-42. C++ Variadics  
-43. Bit Array  
+1. Hello World  </br>
+2. Input and Output  </br>
+3. Conditional Statements  </br>
+4. For Loop  </br>
+5. Functions  </br>
+6. Pointer  </br>
+7. Arrays Introduction  </br>
+8. Variable Sized Arrays  </br>
+9. Attribute Parser  </br>
+10. StringStream  </br>
+11. Strings  </br>
+12. Structs  </br>
+13. Class  </br>
+14. Classes and Objects  </br>
+15. Box It  </br>
+16. Inherited Code  </br>
+17. Exceptional Server    </br>
+18. Virtual Functions    </br>
+19. Abstract classes - Polymorphism    </br>
+20. Vector Sort    </br>
+21. Vector Erase    </br>
+22. Lower Bound STL    </br>
+23. Sets STL    </br>
+24. Maps STL    </br>
+25. Print Pretty    </br>
+26. Deque STL    </br>
+27. Inheritance Introduction    </br>
+28. Hotel Prices    </br>
+29. Rectangle Area    </br>
+30. Multi Level Inheritance    </br>
+31. Overloading Ostream Operator    </br>
+32. Messages Order    </br>
+33. CPP Exception handling    </br>
+34. Accessing Inherited Functions    </br>
+35. Magic Spells    </br>
+36. C++ Class Templates    </br>
+37. Preporcessor Solution    </br>
+38. Operator overloading    </br>
+39. Overload Operators    </br>
+40. Attending Workshops    </br>
+41. C++ Class Template Specialization    </br>
+42. C++ Variadics    </br>
+43. Bit Array    </br>
   </p>
 </details>
