@@ -5,9 +5,9 @@ Main repository for all Hacker Rank solutions
 <details><summary> View Challenges </summary>  
   <p>
     
-1. [Hello World](https://github.com/elcarn23/HackerRank/tree/master/HelloWorld)  </br>
-2. [Input and Output](https://github.com/elcarn23/HackerRank/tree/master/InputAndOutput)  </br>
-3. [Conditional Statements](https://github.com/elcarn23/HackerRank/tree/master/ConditionalStatements)  </br>
+1. [Hello World](https://github.com/elcarn23/HackerRank/tree/master/Cplusplus/HelloWorld)  </br>
+2. [Input and Output](https://github.com/elcarn23/HackerRank/tree/master/Cplusplus/InputAndOutput)  </br>
+3. [Conditional Statements](https://github.com/elcarn23/HackerRank/tree/master/Cplusplus/ConditionalStatements)  </br>
 4. For Loop  </br>
 5. Functions  </br>
 6. Pointer  </br>
@@ -48,6 +48,6 @@ Main repository for all Hacker Rank solutions
 41. C++ Class Template Specialization    </br>
 42. C++ Variadics    </br>
 43. Bit Array    </br>
-44. [Basic Data Types](https://github.com/elcarn23/HackerRank/tree/master/BasicDataTypes) </br>
+44. [Basic Data Types](https://github.com/elcarn23/HackerRank/tree/master/Cplusplus/BasicDataTypes) </br>
   </p>
 </details>
