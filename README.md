@@ -7,7 +7,7 @@ Main repository for all Hacker Rank solutions
     
 1. [Hello World](https://github.com/elcarn23/HackerRank/tree/master/HelloWorld)  </br>
 2. [Input and Output](https://github.com/elcarn23/HackerRank/tree/master/InputAndOutput)  </br>
-3. Conditional Statements  </br>
+3. [Conditional Statements](https://github.com/elcarn23/HackerRank/tree/master/ConditionalStatements)  </br>
 4. For Loop  </br>
 5. Functions  </br>
 6. Pointer  </br>
