@@ -33,13 +33,13 @@ int main() {
       } else if (n == 9) {
         cout << "nine" << endl;
       } else if (n > 9) {
+          // If the number is greater than 9 then we just need to print if it was even or odd.
         if (n % 2 == 0) {
             cout << "even" << endl;
         }
         else {
             cout << "odd" << endl;
         }
-        //cout << "Greater than 9" << endl;
       }
     }
 
