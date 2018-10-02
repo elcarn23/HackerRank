@@ -5,7 +5,7 @@ Main repository for all Hacker Rank solutions
 # C++ Stuff
 <details><summary> View Challenges </summary>  
   <p>
-1. Hello World  </br>
+1. [Hello World](https://github.com/elcarn23/HackerRank/blob/master/HelloWorld/README.md)  </br>
 2. Input and Output  </br>
 3. Conditional Statements  </br>
 4. For Loop  </br>
